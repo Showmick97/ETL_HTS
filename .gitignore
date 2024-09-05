@@ -1,0 +1,8 @@
+_site
+.sass-cache
+.jekyll-metadata
+**/*.pyc
+examples/datavault2-bigdata-example/dataflow/env
+.idea/
+**/venv
+
